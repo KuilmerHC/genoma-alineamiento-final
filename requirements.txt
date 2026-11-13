@@ -1,0 +1,5 @@
+# Versiones con las que se ejecutaron las pruebas y los experimentos (Python 3.11).
+# Solo los experimentos usan numpy y matplotlib; los componentes son Python puro.
+numpy>=1.24
+matplotlib>=3.7
+pytest>=7.0
