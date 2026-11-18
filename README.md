@@ -4,15 +4,6 @@ Grupo 3: alineamiento de lecturas genómicas sintéticas sobre un genoma de refe
 
 Integrantes: Kuilmer Santiago Hernández Cruz (C3, C6), Juan José Berrio Español (C2, C5) y Santiago Serrano Cuellar (C1, C4).
 
-Documentos (versiones PDF para entregar en [docs/pdf/](docs/pdf/)):
-- [docs/guia_del_equipo.md](docs/guia_del_equipo.md): **empiecen por aquí**. Todo el proyecto explicado de forma sencilla, con preguntas probables de la sustentación.
-- [docs/avance_sesion2.md](docs/avance_sesion2.md): **entregable de la sesión 2** (código y pruebas de C1–C3, análisis teórico y plan de experimentos) en un solo documento.
-- [docs/word/](docs/word/): versiones **.docx editables** (Google Drive / Word) del análisis teórico, el avance, el plan de experimentos y el informe; se regeneran con `python docs/word/generar_word.py`.
-- [docs/requerimientos.md](docs/requerimientos.md): requerimientos del enunciado y checklist.
-- [docs/analisis_teorico_c1_c3.md](docs/analisis_teorico_c1_c3.md): análisis teórico de C1–C3 (avance de la sesión 2).
-- [docs/plan_experimentos.md](docs/plan_experimentos.md): hipótesis, protocolo y resultados preliminares.
-- [docs/informe.md](docs/informe.md): **informe técnico final** (PDF de 15 páginas en `docs/pdf/informe.pdf`).
-- [docs/diapositivas/sustentacion_grupo3.pptx](docs/diapositivas/sustentacion_grupo3.pptx): **diapositivas de la sustentación** (11 láminas, con el guion en las notas del orador; PDF en `docs/pdf/sustentacion_grupo3.pdf`).
 
 ## Estructura
 
